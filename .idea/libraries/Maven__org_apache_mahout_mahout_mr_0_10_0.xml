@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.mahout:mahout-mr:0.10.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-mr/0.10.0/mahout-mr-0.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/mahout-mr-0.10.0-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-mr/0.10.0/mahout-mr-0.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/mahout-mr-0.10.0-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/mahout/mahout-mr/0.10.0/mahout-mr-0.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
